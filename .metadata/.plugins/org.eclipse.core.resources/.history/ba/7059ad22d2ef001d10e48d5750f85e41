@@ -1,0 +1,8 @@
+package com.backend.crud.model;
+
+public class User {
+	private long id;
+	private string firstName;
+	private string lastName;
+	private string email;
+}
